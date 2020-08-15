@@ -1,0 +1,66 @@
+D:\ornekler\C#_net\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+D:\ornekler\C#_net\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+D:\ornekler\C#_net\stok_programi\stok_programi\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\C#_net\stok_programi\stok_programi\obj\Debug\stok_programi.Form1.resources
+D:\ornekler\C#_net\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+D:\ornekler\C#_net\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+D:\ornekler\C#_net\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+D:\ornekler\C#_net\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.exe
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.pdb
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\bin\Debug\stok_programi.exe
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\bin\Debug\stok_programi.pdb
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.Form1.resources
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\bin\Debug\stok_programi.exe
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\bin\Debug\stok_programi.pdb
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.Form1.resources
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+C:\Users\hasan\Desktop\asil\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\hasan\Desktop\asil\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\hasan\Desktop\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\hasan\Desktop\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+D:\ornekler\C#_net\stok_programi_calisan_id_li\stok_programi\obj\Debug\stok_programi.exe
+D:\ornekler\C#_net\stok_programi_calisan_id_li\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\obj\Debug\stok_programi.csprojResolveAssemblyReference.cache
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\obj\Debug\stok_programi.Form1.resources
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\bin\Debug\stok_programi.exe.config
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\obj\Debug\stok_programi.csprojAssemblyReference.cache
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\obj\Debug\stok_programi.Form1.resources
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.cache
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.CoreCompileInputs.cache
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\obj\Debug\stok_programi.Login.resources
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\obj\Debug\stok_programi.User.resources
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\obj\Debug\stok_programi.Admin.resources
+C:\Users\emre_\Desktop\Software Engineering\Proje\www_gorselprogramlama_com_stok_prog\stok_programi\stok_programi\bin\Debug\data.accdb
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\bin\Debug\data.accdb
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\bin\Debug\stok_programi.exe.config
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\bin\Debug\stok_programi.exe
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\bin\Debug\stok_programi.pdb
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\obj\Debug\stok_programi.csprojAssemblyReference.cache
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\obj\Debug\stok_programi.Admin.resources
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\obj\Debug\stok_programi.Form1.resources
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\obj\Debug\stok_programi.Login.resources
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\obj\Debug\stok_programi.User.resources
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.cache
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\obj\Debug\stok_programi.csproj.CoreCompileInputs.cache
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\emre_\Desktop\Software Engineering\Proje\Stock Control Management System\stock_program\stok_programi\obj\Debug\stok_programi.pdb
