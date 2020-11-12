@@ -1,5 +1,5 @@
 # Stock Control Management System
-This project was made through unified model process. It can be used in the inventory control system of places such as warehouse, supermarket.
+This project can be used in the inventory control system of places such as warehouse, supermarket.
 
 Microsoft Access database was used.
 
